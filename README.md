@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋🏻 , I'm Berfin Dalar</h1>
 
-<!--
-**sumeyyeberfindalar/sumeyyeberfindalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning java
+
+
+## Contact Me:
+<p align="left">
+<a href="https://linkedin.com/in/sberfdalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sberfdalar" height="30" width="40" /></a>
+<a href="https://instagram.com/sberfdalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sberfdalar" height="30" width="40" /></a>
+<a href="https://twitter.com/sberfdalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sberfdalar" height="30" width="40" /></a>
+</p>
+
