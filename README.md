@@ -16,11 +16,19 @@
 <a href="https://twitter.com/sberfdalar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sberfdalar" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sberfdalar&show_icons=true&locale=en&layout=compact" alt="sberfdalar" /></p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sumeyyeberfindalar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sumeyyeberfindalar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyeberfindalar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sberfdalar&show_icons=true&locale=en" alt="sberfdalar" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sumeyyeberfindalar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sberfdalar&" alt="sberfdalar" /></p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=sberfdalar)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sumeyyeberfindalar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
