@@ -3,7 +3,6 @@
 
 -  🔭 I am a 20 years old, a computer science/engineering student at Gazi University from Turkiye
 
-
 - 🌱 I’m currently learning java
 
 
